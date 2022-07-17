@@ -1,0 +1,22 @@
+{
+  "name": "studentdetailsform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveenaThota97/studentDetailsForm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveenaThota97/studentDetailsForm/issues"
+  },
+  "homepage": "https://github.com/praveenaThota97/studentDetailsForm#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
